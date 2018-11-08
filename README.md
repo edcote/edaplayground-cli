@@ -21,7 +21,7 @@ To exit your virtualenv, simply type `deactivate` or close the terminal window.
 ```
 $ virtualenv venv
 $ . venv/bin/activate
-$ pip3 install packa
+$ # install your python packages, i.e., pip3 install package_name
 $ pip3 freeze > requirements.txt
 ```
 
